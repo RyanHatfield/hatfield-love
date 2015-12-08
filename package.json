@@ -1,0 +1,21 @@
+{
+  "name": "hatfield-love",
+  "version": "1.0.0",
+  "description": "Hatfield Wedding Website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanHatfield/hatfield-love.git"
+  },
+  "keywords": [
+    "Website",
+    "Static",
+    "Wedding",
+    "Hatfield"
+  ],
+  "author": "Ryan Hatfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanHatfield/hatfield-love/issues"
+  },
+  "homepage": "https://github.com/RyanHatfield/hatfield-love#readme"
+}
