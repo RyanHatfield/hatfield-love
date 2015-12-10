@@ -11,11 +11,3 @@ deploy:
   detect_encoding: true
   acl: public_read
   skip_cleanup: true
-- provider: s3
-  access_key_id: $AWS_ACCESS_KEY
-  secret_access_key: $AWS_SECRET_KEY
-  bucket: hatfield.love
-  local-dir: dist
-  detect_encoding: true
-  acl: public_read
-  skip_cleanup: true
