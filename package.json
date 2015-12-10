@@ -17,5 +17,16 @@
   "bugs": {
     "url": "https://github.com/RyanHatfield/hatfield-love/issues"
   },
-  "homepage": "https://github.com/RyanHatfield/hatfield-love#readme"
+  "homepage": "https://github.com/RyanHatfield/hatfield-love#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-serve": "^1.2.0",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.5",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.1.0",
+    "st": "^1.0.0"
+  }
 }
