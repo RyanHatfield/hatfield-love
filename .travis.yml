@@ -11,3 +11,5 @@ deploy:
   detect_encoding: true
   acl: public_read
   skip_cleanup: true
+  cache_control: "max-age=86400"
+  expires: "2012-12-21 00:00:00 -0000"
