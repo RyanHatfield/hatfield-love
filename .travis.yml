@@ -9,3 +9,4 @@ deploy:
   bucket: love.hatfield
   local-dir: dist
   detect_encoding: true
+  acl: public_read
